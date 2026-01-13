@@ -16,7 +16,7 @@ def calculateScore(finance, supply, population, urgency, capacity):
 
 def isNiche(population, capacity, finance):
     try:
-        if population < 5 and capacity > 2 and finance > 5:
+        if population < 4 and capacity > 4 and finance > 5:
             return True
     except Exception:
         # if i get smegged by the data

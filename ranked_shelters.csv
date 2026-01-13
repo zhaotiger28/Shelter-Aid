@@ -1,95 +1,95 @@
 rank,name,niche,score,finance,supply,population,urgency,capacity
-1,row_1,False,0.0,0.0,0.0,0.0,0.0,0.0
-2,row_2,False,0.0,0.0,0.0,0.0,0.0,0.0
-3,row_3,False,0.0,0.0,0.0,0.0,0.0,0.0
-4,row_4,False,0.0,0.0,0.0,0.0,0.0,0.0
-5,row_5,False,0.0,0.0,0.0,0.0,0.0,0.0
-6,row_6,False,0.0,0.0,0.0,0.0,0.0,0.0
-7,row_7,False,0.0,0.0,0.0,0.0,0.0,0.0
-8,row_8,False,0.0,0.0,0.0,0.0,0.0,0.0
-9,row_9,False,0.0,0.0,0.0,0.0,0.0,0.0
-10,row_10,False,0.0,0.0,0.0,0.0,0.0,0.0
-11,row_11,False,0.0,0.0,0.0,0.0,0.0,0.0
-12,row_12,False,0.0,0.0,0.0,0.0,0.0,0.0
-13,row_13,False,0.0,0.0,0.0,0.0,0.0,0.0
-14,row_14,False,0.0,0.0,0.0,0.0,0.0,0.0
-15,row_15,False,0.0,0.0,0.0,0.0,0.0,0.0
-16,row_16,False,0.0,0.0,0.0,0.0,0.0,0.0
-17,row_17,False,0.0,0.0,0.0,0.0,0.0,0.0
-18,row_18,False,0.0,0.0,0.0,0.0,0.0,0.0
-19,row_19,False,0.0,0.0,0.0,0.0,0.0,0.0
-20,row_20,False,0.0,0.0,0.0,0.0,0.0,0.0
-21,row_21,False,0.0,0.0,0.0,0.0,0.0,0.0
-22,row_22,False,0.0,0.0,0.0,0.0,0.0,0.0
-23,row_23,False,0.0,0.0,0.0,0.0,0.0,0.0
-24,row_24,False,0.0,0.0,0.0,0.0,0.0,0.0
-25,row_25,False,0.0,0.0,0.0,0.0,0.0,0.0
-26,row_26,False,0.0,0.0,0.0,0.0,0.0,0.0
-27,row_27,False,0.0,0.0,0.0,0.0,0.0,0.0
-28,row_28,False,0.0,0.0,0.0,0.0,0.0,0.0
-29,row_29,False,0.0,0.0,0.0,0.0,0.0,0.0
-30,row_30,False,0.0,0.0,0.0,0.0,0.0,0.0
-31,row_31,False,0.0,0.0,0.0,0.0,0.0,0.0
-32,row_32,False,0.0,0.0,0.0,0.0,0.0,0.0
-33,row_33,False,0.0,0.0,0.0,0.0,0.0,0.0
-34,row_34,False,0.0,0.0,0.0,0.0,0.0,0.0
-35,row_35,False,0.0,0.0,0.0,0.0,0.0,0.0
-36,row_36,False,0.0,0.0,0.0,0.0,0.0,0.0
-37,row_37,False,0.0,0.0,0.0,0.0,0.0,0.0
-38,row_38,False,0.0,0.0,0.0,0.0,0.0,0.0
-39,row_39,False,0.0,0.0,0.0,0.0,0.0,0.0
-40,row_40,False,0.0,0.0,0.0,0.0,0.0,0.0
-41,row_41,False,0.0,0.0,0.0,0.0,0.0,0.0
-42,row_42,False,0.0,0.0,0.0,0.0,0.0,0.0
-43,row_43,False,0.0,0.0,0.0,0.0,0.0,0.0
-44,row_44,False,0.0,0.0,0.0,0.0,0.0,0.0
-45,row_45,False,0.0,0.0,0.0,0.0,0.0,0.0
-46,row_46,False,0.0,0.0,0.0,0.0,0.0,0.0
-47,row_47,False,0.0,0.0,0.0,0.0,0.0,0.0
-48,row_48,False,0.0,0.0,0.0,0.0,0.0,0.0
-49,row_49,False,0.0,0.0,0.0,0.0,0.0,0.0
-50,row_50,False,0.0,0.0,0.0,0.0,0.0,0.0
-51,row_51,False,0.0,0.0,0.0,0.0,0.0,0.0
-52,row_52,False,0.0,0.0,0.0,0.0,0.0,0.0
-53,row_53,False,0.0,0.0,0.0,0.0,0.0,0.0
-54,row_54,False,0.0,0.0,0.0,0.0,0.0,0.0
-55,row_55,False,0.0,0.0,0.0,0.0,0.0,0.0
-56,row_56,False,0.0,0.0,0.0,0.0,0.0,0.0
-57,row_57,False,0.0,0.0,0.0,0.0,0.0,0.0
-58,row_58,False,0.0,0.0,0.0,0.0,0.0,0.0
-59,row_59,False,0.0,0.0,0.0,0.0,0.0,0.0
-60,row_60,False,0.0,0.0,0.0,0.0,0.0,0.0
-61,row_61,False,0.0,0.0,0.0,0.0,0.0,0.0
-62,row_62,False,0.0,0.0,0.0,0.0,0.0,0.0
-63,row_63,False,0.0,0.0,0.0,0.0,0.0,0.0
-64,row_64,False,0.0,0.0,0.0,0.0,0.0,0.0
-65,row_65,False,0.0,0.0,0.0,0.0,0.0,0.0
-66,row_66,False,0.0,0.0,0.0,0.0,0.0,0.0
-67,row_67,False,0.0,0.0,0.0,0.0,0.0,0.0
-68,row_68,False,0.0,0.0,0.0,0.0,0.0,0.0
-69,row_69,False,0.0,0.0,0.0,0.0,0.0,0.0
-70,row_70,False,0.0,0.0,0.0,0.0,0.0,0.0
-71,row_71,False,0.0,0.0,0.0,0.0,0.0,0.0
-72,row_72,False,0.0,0.0,0.0,0.0,0.0,0.0
-73,row_73,False,0.0,0.0,0.0,0.0,0.0,0.0
-74,row_74,False,0.0,0.0,0.0,0.0,0.0,0.0
-75,row_75,False,0.0,0.0,0.0,0.0,0.0,0.0
-76,row_76,False,0.0,0.0,0.0,0.0,0.0,0.0
-77,row_77,False,0.0,0.0,0.0,0.0,0.0,0.0
-78,row_78,False,0.0,0.0,0.0,0.0,0.0,0.0
-79,row_79,False,0.0,0.0,0.0,0.0,0.0,0.0
-80,row_80,False,0.0,0.0,0.0,0.0,0.0,0.0
-81,row_81,False,0.0,0.0,0.0,0.0,0.0,0.0
-82,row_82,False,0.0,0.0,0.0,0.0,0.0,0.0
-83,row_83,False,0.0,0.0,0.0,0.0,0.0,0.0
-84,row_84,False,0.0,0.0,0.0,0.0,0.0,0.0
-85,row_85,False,0.0,0.0,0.0,0.0,0.0,0.0
-86,row_86,False,0.0,0.0,0.0,0.0,0.0,0.0
-87,row_87,False,0.0,0.0,0.0,0.0,0.0,0.0
-88,row_88,False,0.0,0.0,0.0,0.0,0.0,0.0
-89,row_89,False,0.0,0.0,0.0,0.0,0.0,0.0
-90,row_90,False,0.0,0.0,0.0,0.0,0.0,0.0
-91,row_91,False,0.0,0.0,0.0,0.0,0.0,0.0
-92,row_92,False,0.0,0.0,0.0,0.0,0.0,0.0
-93,row_93,False,0.0,0.0,0.0,0.0,0.0,0.0
-94,row_94,False,0.0,0.0,0.0,0.0,0.0,0.0
+1,Crisis Ministries,True,8.100000000000001,8.0,10.0,2.0,10.0,6.0
+2,Emily's Place,True,6.8,6.0,6.0,2.0,10.0,6.0
+3,Dallas Christian Women's Job Corps,True,6.75,6.0,7.0,2.0,7.0,9.0
+4,In My Shoes,True,6.1,7.0,7.0,2.0,5.0,8.0
+5,The Family Place,False,8.55,3.0,10.0,8.0,10.0,9.0
+6,World Relief Texas,False,8.35,3.0,10.0,8.0,10.0,8.0
+7,The Bridge Homeless Recovery Center,False,7.9,2.0,10.0,10.0,7.0,10.0
+8,Streetside Showers,False,7.799999999999999,7.0,7.0,4.0,10.0,8.0
+9,The Salvation Army Carr P. Collins,False,7.75,1.0,10.0,10.0,7.0,10.0
+10,Human Rights Initiative of N. Texas,False,7.6000000000000005,8.0,6.0,7.0,10.0,6.0
+11,Denton County Friends of the Family,False,7.55,3.0,6.0,8.0,10.0,9.0
+12,Mission Arlington,False,7.45,1.0,6.0,10.0,10.0,9.0
+13,Catholic Charities Dallas,False,7.45,1.0,6.0,8.0,10.0,10.0
+14,International Rescue Committee Dallas,False,7.3,6.0,6.0,7.0,10.0,6.0
+15,Brighter Tomorrows,False,7.25,5.0,6.0,4.0,10.0,8.0
+16,Metro Relief,False,7.2,6.0,10.0,5.0,7.0,6.0
+17,Frisco Family Services,False,7.199999999999999,4.0,6.0,5.0,10.0,8.0
+18,Gateway of Grace,False,7.199999999999999,4.0,6.0,5.0,10.0,8.0
+19,Mosaic Family Services,False,7.1,4.0,6.0,4.0,10.0,8.0
+20,Center for Transforming Lives,False,7.0,6.0,6.0,7.0,7.0,9.0
+21,New Friends New Life,False,7.0,6.0,6.0,4.0,10.0,6.0
+22,West Dallas Multipurpose Center,False,7.0,6.0,6.0,7.0,7.0,9.0
+23,MLK Jr. Community Center,False,7.0,6.0,6.0,7.0,7.0,9.0
+24,Arlington Life Shelter,False,7.0,6.0,6.0,7.0,7.0,9.0
+25,Promise House,False,6.95,6.0,7.0,4.0,7.0,9.0
+26,Network of Community Ministries,False,6.95,6.0,7.0,10.0,5.0,9.0
+27,Wilkinson Center,False,6.8,6.0,6.0,5.0,7.0,9.0
+28,Crossroads Community Services,False,6.8,6.0,6.0,5.0,7.0,9.0
+29,Catholic Charities Fort Worth,False,6.75,1.0,6.0,10.0,7.0,10.0
+30,Union Gospel Mission,False,6.7,6.0,6.0,10.0,7.0,6.0
+31,Friendship House,False,6.7,6.0,6.0,4.0,7.0,9.0
+32,North Dallas Shared Ministries,False,6.7,6.0,6.0,10.0,7.0,6.0
+33,One Man’s Treasure,False,6.699999999999999,5.0,7.0,5.0,7.0,8.0
+34,City House,False,6.65,5.0,6.0,7.0,7.0,8.0
+35,Trusted World,False,6.6,6.0,6.0,5.0,7.0,8.0
+36,The Salvation Army Mabee Center,False,6.550000000000001,1.0,6.0,8.0,7.0,10.0
+37,White Rock Center of Hope,False,6.500000000000001,6.0,6.0,8.0,7.0,6.0
+38,Community Partners of Dallas,False,6.500000000000001,6.0,6.0,8.0,7.0,6.0
+39,Operation Care International,False,6.500000000000001,6.0,6.0,8.0,7.0,6.0
+40,Genesis Women’s Shelter,False,6.5,2.0,6.0,8.0,7.0,9.0
+41,Metrocrest Services,False,6.5,2.0,6.0,8.0,7.0,9.0
+42,SafeHaven of Tarrant County,False,6.5,2.0,6.0,8.0,7.0,9.0
+43,Union Gospel Mission of Tarrant County,False,6.45,1.0,6.0,7.0,7.0,10.0
+44,Sharing Life Community Outreach,False,6.45,6.0,7.0,5.0,5.0,9.0
+45,Hope’s Door New Beginning Center,False,6.4,4.0,2.0,7.0,10.0,8.0
+46,Dress for Success Dallas,False,6.4,6.0,6.0,7.0,7.0,6.0
+47,Good Shepherd (Loaves & Fishes),False,6.4,8.0,6.0,4.0,7.0,6.0
+48,Our Daily Bread,False,6.3500000000000005,6.0,7.0,4.0,7.0,6.0
+49,Dallas 24 Hour Club,False,6.35,5.0,6.0,4.0,7.0,8.0
+50,Dallas Life,False,6.300000000000001,4.0,6.0,5.0,7.0,8.0
+51,Christian Community Action,False,6.25,3.0,6.0,10.0,5.0,9.0
+52,Attitudes & Attire,False,6.2,6.0,6.0,5.0,7.0,6.0
+53,Family Promise of Collin County,False,6.2,6.0,6.0,5.0,7.0,6.0
+54,For the Nations: Refugee Outreach,False,6.2,6.0,6.0,5.0,7.0,6.0
+55,DRC Solutions,False,6.2,6.0,6.0,5.0,5.0,9.0
+56,Soul's Harbor,False,6.2,6.0,6.0,5.0,7.0,6.0
+57,Allen Community Outreach (ACO),False,6.2,6.0,6.0,5.0,7.0,6.0
+58,Northgate UMC Clothing Closet,False,6.2,6.0,6.0,5.0,7.0,6.0
+59,Cornerstone Baptist Church,False,6.2,6.0,6.0,5.0,7.0,6.0
+60,Elevate North Texas,False,6.2,6.0,6.0,5.0,7.0,6.0
+61,Interfaith Family Services,False,6.2,6.0,6.0,5.0,7.0,6.0
+62,CitySquare,False,6.1499999999999995,9.0,6.0,10.0,5.0,4.0
+63,Brother Bill’s Helping Hand,False,6.1000000000000005,4.0,6.0,7.0,5.0,9.0
+64,Harvest House,False,6.1000000000000005,6.0,6.0,4.0,7.0,6.0
+65,The Storehouse of Collin County,False,6.1000000000000005,6.0,6.0,10.0,5.0,6.0
+66,Inspired Vision Compassion Center,False,6.1000000000000005,6.0,6.0,10.0,5.0,6.0
+67,Main Street House,False,6.1000000000000005,6.0,6.0,4.0,7.0,6.0
+68,GRACE,False,6.0,4.0,6.0,8.0,5.0,8.0
+69,Hope Supply Co.,False,5.95,5.0,6.0,4.0,5.0,9.0
+70,Life Message,False,5.9,6.0,6.0,8.0,5.0,6.0
+71,Family Gateway,False,5.8999999999999995,4.0,6.0,5.0,5.0,9.0
+72,The Stewpot,False,5.8999999999999995,4.0,6.0,5.0,5.0,9.0
+73,Presbyterian Night Shelter,False,5.8999999999999995,2.0,6.0,8.0,5.0,9.0
+74,Buckner Shoes for Orphan Souls,False,5.85,1.0,6.0,7.0,5.0,10.0
+75,Vogel Alcove,False,5.8,4.0,6.0,4.0,5.0,9.0
+76,6 Stones,False,5.8,6.0,6.0,10.0,4.0,6.0
+77,Bed Start,False,5.8,6.0,6.0,4.0,4.0,9.0
+78,Advocates for Community Transformation,False,5.8,6.0,6.0,7.0,5.0,6.0
+79,OurCalling,False,5.699999999999999,4.0,6.0,5.0,5.0,8.0
+80,Beautiful Feet Ministries,False,5.6000000000000005,6.0,6.0,5.0,5.0,6.0
+81,Many Helping Hands,False,5.6000000000000005,6.0,6.0,5.0,5.0,6.0
+82,S.O.U.L. Church,False,5.5,6.0,6.0,4.0,5.0,6.0
+83,Voice of Hope Ministries,False,5.5,6.0,6.0,4.0,5.0,6.0
+84,Harmony Community Development,False,5.5,6.0,6.0,4.0,5.0,6.0
+85,River of Life,False,5.5,6.0,6.0,4.0,5.0,6.0
+86,Valiant Hearts,False,5.5,6.0,6.0,4.0,5.0,6.0
+87,Austin Street Center,False,5.4,2.0,2.0,7.0,7.0,9.0
+88,Jonathan’s Place,False,5.3,6.0,6.0,5.0,4.0,6.0
+89,ACH Child and Family Services,False,5.3,6.0,6.0,5.0,4.0,6.0
+90,Journey to Dream (Kyle's Place),False,5.2,6.0,6.0,4.0,4.0,6.0
+91,Arms of Hope,False,5.2,6.0,6.0,4.0,4.0,6.0
+92,Helping Hands of Rockwall County,False,5.15,2.0,7.0,7.0,4.0,6.0
+93,Grace Bridge Resale,False,5.1000000000000005,8.0,2.0,5.0,5.0,7.0
+94,Samaritan Inn,False,5.05,3.0,2.0,8.0,5.0,9.0
