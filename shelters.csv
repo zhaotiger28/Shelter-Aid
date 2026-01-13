@@ -1,9 +1,95 @@
-name,finance,supply,population,urgency,capacity
-chief shelter,2,7,10,9,3
-test shelter,3,3,9,4,5
-tiger shelter,4,9,7,1,4
-monkey shelter,2,6,3,8,4
-ligma shelter,6,3,7,1,8
-aarav shelter,5,10,2,9,2
-niche shelter,7,8,1,1,9
-betterniche shelter ,8,9,2,2,10
+Name,Finance,Supply,Population,Urgency,Capacity
+Samaritan Inn,5,1,5,5,7
+Grace Bridge Resale,4,1,5,5,8
+Austin Street Center,2,1,7,7,7
+Dallas 24 Hour Club,5,6,4,7,7
+Mission Arlington,5,6,10,10,7
+Trusted World,5,6,5,7,7
+Dallas Life,2,6,5,7,7
+OurCalling,5,6,5,5,7
+Family Gateway,5,6,5,5,7
+City House,5,6,7,7,7
+Vogel Alcove,2,6,4,5,7
+The Stewpot,5,6,5,5,7
+In My Shoes,6,7,1,8,9
+Mosaic Family Services,5,6,4,10,7
+S.O.U.L. Church,5,6,4,5,7
+Buckner Shoes for Orphan Souls,5,6,7,5,7
+Presbyterian Night Shelter,5,6,5,5,7
+Beautiful Feet Ministries,5,6,5,5,7
+Union Gospel Mission of Tarrant County,5,6,7,7,7
+One Man’s Treasure,5,7,5,7,9
+Catholic Charities Dallas,2,6,5,10,7
+Attitudes & Attire,5,6,5,7,7
+Hope Supply Co.,5,6,4,5,9
+Our Daily Bread,5,7,4,7,7
+GRACE,5,6,8,5,7
+Family Promise of Collin County,5,6,5,7,7
+Denton County Friends of the Family,5,6,4,10,7
+Voice of Hope Ministries,5,6,4,5,7
+Many Helping Hands,5,6,5,5,7
+Jonathan’s Place,5,6,5,4,7
+The Bridge Homeless Recovery Center,5,10,10,7,9
+Genesis Women’s Shelter,4,6,5,7,7
+Union Gospel Mission,5,6,10,7,7
+The Family Place,5,10,8,10,7
+Streetside Showers,7,7,2,9,8
+Brother Bill’s Helping Hand,4,6,7,5,9
+Metrocrest Services,4,6,8,7,8
+Promise House,5,7,4,7,9
+Network of Community Ministries,5,7,10,5,9
+Christian Community Action,4,6,10,5,9
+Hope’s Door New Beginning Center,4,1,7,10,8
+For the Nations: Refugee Outreach,5,6,5,7,7
+Sharing Life Community Outreach,5,7,5,5,9
+Wilkinson Center,5,6,5,7,9
+SafeHaven of Tarrant County,5,6,5,7,7
+Frisco Family Services,4,6,5,10,8
+White Rock Center of Hope,5,6,8,7,7
+Harmony Community Development,5,6,4,5,7
+Crossroads Community Services,5,6,5,7,9
+Brighter Tomorrows,5,6,4,10,7
+CitySquare,5,6,10,5,7
+The Salvation Army Carr P. Collins,5,10,10,7,9
+The Salvation Army Mabee Center,5,6,5,7,7
+DRC Solutions,5,6,5,5,9
+Center for Transforming Lives,5,6,7,7,9
+Harvest House,5,6,4,7,7
+6 Stones,5,6,10,4,7
+The Storehouse of Collin County,5,6,10,5,7
+International Rescue Committee Dallas,5,6,7,10,7
+World Relief Texas,5,10,5,10,7
+Catholic Charities Fort Worth,5,6,10,7,7
+Gateway of Grace,5,6,5,10,6
+Soul's Harbor,5,6,5,7,7
+River of Life,5,6,4,5,6
+Life Message,5,6,8,5,7
+Friendship House,5,6,4,7,9
+Metro Relief,5,10,5,7,6
+New Friends New Life,5,6,4,10,7
+West Dallas Multipurpose Center,5,6,7,7,9
+MLK Jr. Community Center,5,6,7,7,9
+Arlington Life Shelter,5,6,7,7,9
+Allen Community Outreach (ACO),5,6,5,7,7
+Community Partners of Dallas,5,6,8,7,7
+Human Rights Initiative of N. Texas,8,6,7,10,7
+Dress for Success Dallas,5,6,7,7,7
+Northgate UMC Clothing Closet,5,6,5,7,7
+Dallas Christian Women's Job Corps,5,7,2,7,9
+North Dallas Shared Ministries,5,6,10,7,6
+Inspired Vision Compassion Center,5,6,10,5,7
+Operation Care International,5,6,8,7,7
+Journey to Dream (Kyle's Place),5,6,4,4,7
+Cornerstone Baptist Church,5,6,5,7,7
+Bed Start,5,6,4,4,9
+Helping Hands of Rockwall County,2,7,7,4,7
+Arms of Hope,5,6,4,4,7
+ACH Child and Family Services,5,6,5,4,7
+Elevate North Texas,5,6,5,7,7
+Interfaith Family Services,5,6,5,7,7
+Emily's Place,5,6,2,10,7
+Crisis Ministries,8,10,2,10,7
+Good Shepherd (Loaves & Fishes),8,6,4,7,6
+Advocates for Community Transformation,5,6,7,5,7
+Main Street House,5,6,4,7,7
+Valiant Hearts,5,6,4,5,7
