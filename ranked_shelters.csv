@@ -1,9 +1,31 @@
 rank,name,niche,score,finance,supply,population,urgency,capacity
-1,betterniche shelter ,True,6.25,8.0,9.0,2.0,2.0,10.0
-2,niche shelter,True,5.25,7.0,8.0,1.0,1.0,9.0
-3,aarav shelter,False,6.550000000000001,5.0,10.0,2.0,9.0,2.0
-4,chief shelter,False,6.35,2.0,7.0,10.0,9.0,3.0
-5,monkey shelter,False,5.3,2.0,6.0,3.0,8.0,4.0
-6,tiger shelter,False,4.65,4.0,9.0,7.0,1.0,4.0
-7,test shelter,False,4.3,3.0,3.0,9.0,4.0,5.0
-8,ligma shelter,False,4.25,6.0,3.0,7.0,1.0,8.0
+1,Hope Supply Co.,True,6.45,7.0,8.0,2.0,4.0,10.0
+2,Mission Arlington,False,8.6,9.0,7.0,10.0,9.0,9.0
+3,Trusted World,False,7.45,8.0,7.0,7.0,6.0,10.0
+4,Buckner Shoes for Orphan Souls,False,6.95,10.0,5.0,10.0,4.0,10.0
+5,Jonathan’s Place,False,6.85,6.0,7.0,4.0,10.0,4.0
+6,Denton County Friends of the Family,False,6.6000000000000005,10.0,6.0,2.0,10.0,2.0
+7,Our Daily Bread,False,5.9,5.0,5.0,5.0,8.0,5.0
+8,Austin Street Center,False,5.8,9.0,1.0,6.0,8.0,6.0
+9,Union Gospel Mission of Tarrant County,False,5.65,9.0,8.0,1.0,6.0,2.0
+10,Many Helping Hands,False,5.6,5.0,5.0,4.0,8.0,4.0
+11,OurCalling,False,5.45,10.0,5.0,5.0,4.0,5.0
+12,Catholic Charities Dallas,False,5.35,10.0,7.0,4.0,3.0,4.0
+13,Presbyterian Night Shelter,False,5.05,9.0,8.0,1.0,4.0,2.0
+14,City House,False,4.9,6.0,4.0,5.0,5.0,5.0
+15,Family Promise of Collin County,False,4.9,3.0,7.0,3.0,6.0,3.0
+16,Attitudes & Attire,False,4.75,5.0,4.0,5.0,5.0,5.0
+17,Dallas 24 Hour Club,False,4.699999999999999,7.0,5.0,3.0,5.0,3.0
+18,Mosaic Family Services,False,4.6,8.0,4.0,3.0,5.0,3.0
+19,Family Gateway,False,4.45,10.0,5.0,1.0,4.0,2.0
+20,Dallas Life,False,4.35,9.0,4.0,1.0,5.0,2.0
+21,Vogel Alcove,False,4.25,6.0,5.0,3.0,4.0,3.0
+22,The Stewpot,False,3.9499999999999997,6.0,5.0,2.0,4.0,2.0
+23,GRACE,False,3.85,6.0,5.0,1.0,4.0,2.0
+24,Beautiful Feet Ministries,False,3.8000000000000003,5.0,5.0,2.0,4.0,2.0
+25,Voice of Hope Ministries,False,3.8000000000000003,5.0,5.0,2.0,4.0,2.0
+26,One Man’s Treasure,False,3.4499999999999997,3.0,4.0,1.0,5.0,2.0
+27,Samaritan Inn,False,3.35,5.0,2.0,3.0,4.0,3.0
+28,S.O.U.L. Church,False,3.35,2.0,5.0,2.0,4.0,2.0
+29,Grace Bridge Resale,False,3.1500000000000004,4.0,1.0,3.0,2.0,7.0
+30,In My Shoes,False,2.9,3.0,3.0,1.0,4.0,2.0
